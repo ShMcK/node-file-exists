@@ -1,0 +1,25 @@
+{
+  "name": "node-file-exists",
+  "version": "1.0.0",
+  "description": "Check if a file exists in Node.js. ES6 module compatible, non-depracated fs utils.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShMcK/node-file-exists.git"
+  },
+  "keywords": [
+    "file",
+    "exists",
+    "node",
+    "fs"
+  ],
+  "author": "Shawn McKay <shawn.j.mckay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShMcK/node-file-exists/issues"
+  },
+  "homepage": "https://github.com/ShMcK/node-file-exists#readme"
+}
