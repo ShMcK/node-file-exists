@@ -15,6 +15,17 @@ Why a new file-exists check?
 ```js
 import exists from 'node-file-exists';
 
-exists('/path/to/file.js'); // true or false
+exists('/path/to/file.js');
+// true or false
+```
 
+##### Silent
+
+Pass in false as a second parameter to produce errors on failure.
+
+```js
+import exists from 'node-file-exists';
+
+exists('/path/to/file.js', false);
+// true or Error
 ```

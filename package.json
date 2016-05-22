@@ -1,6 +1,6 @@
 {
   "name": "node-file-exists",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Check if a file exists in Node.js. ES6 module compatible, non-depracated fs utils.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/ShMcK/node-file-exists.git"
   },
+  "files": [
+    "package.json",
+    "README.md",
+    "index.js"
+  ],
   "keywords": [
     "file",
     "exists",
